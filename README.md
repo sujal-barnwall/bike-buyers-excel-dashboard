@@ -52,3 +52,6 @@ The dashboard enables segmentation analysis and supports targeted marketing stra
 
 # Filters
 [Filters](screenshots/slicers-screenshot.png)
+
+The full interactive dashboard and dataset are included in `bike_buyers_dashboard.xlsx`.  
+Screenshots above provide a quick preview of the dashboard.
