@@ -42,13 +42,13 @@ The dataset contains customer-level information including:
 # Business Value
 The dashboard enables segmentation analysis and supports targeted marketing strategies for higher conversion rates.
 
-# Screenshots
+# Dashboard overview
 
-# Home Page
-[Home Page](screenshots/dashboard-screenshot-1.png)
+# Top section
+[Top section](screenshots/dashboard-screenshot-1.png)
 
-# Sales Chart
-[Sales Chart](screenshots/dashboard-screenshot-2.png)
+# Bottom section
+[Bottom section](screenshots/dashboard-screenshot-2.png)
 
-# Filter Options
-[Filter Options](screenshots/slicers-screenshot.png)
+# Filters
+[Filters](screenshots/slicers-screenshot.png)
