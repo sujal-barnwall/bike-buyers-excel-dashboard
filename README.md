@@ -45,10 +45,10 @@ The dashboard enables segmentation analysis and supports targeted marketing stra
 # Screenshots
 
 # Home Page
-[Home Page]("screenshots\dashboard-screenshot-1.png")
+[Home Page](screenshots/dashboard-screenshot-1.png)
 
 # Sales Chart
-[Sales Chart]("screenshots\dashboard-screenshot-2.png")
+[Sales Chart](screenshots/dashboard-screenshot-2.png)
 
 # Filter Options
-[Filter Options]("screenshots\slicers-screenshot.png")
+[Filter Options](screenshots/slicers-screenshot.png)
